@@ -1,2 +1,2 @@
 # Prework-Study-Guide
-Bootcamp Prework Study Guide fgor Students
+Bootcamp Prework Study Guide for Students
